@@ -1,3 +1,5 @@
+/* Let's join the tables together
+The obtained result has been exported as "global-electronics-retailer-analysis-raw-dataset.csv" at the root of this folder*/
 SELECT stores.`StoreKey`,
 	   stores.`State` as StoreState,
        stores.`Country` as StoreCountry,
