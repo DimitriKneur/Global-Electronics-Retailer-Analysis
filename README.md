@@ -6,6 +6,8 @@
 <img width="792px" src='https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Retail_Dashboard_Snapshot.gif' />
 </p>
 
+<br>
+
 ## Main objective
 
 Analyze the sales by individual store of a global electronics retailer, and make an interactive sales dashboard.
@@ -45,8 +47,20 @@ It consists in 6 csv files :
 
 ## Methodology and tools used
 
+<br>
+
 | Step | Used Tools |
 |------|-------------|
 | First Exploratory Data Analysis & Joining Tables | <img style="padding:2px" style="padding:2px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black"/> |   
 | Data Cleaning, Advanced Exploratory Data Analysis & First Visualizations | <img style="padding:2px" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=black"/> <img style="padding:2px" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black"/> <img style="padding:2px" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=black"/> |
 | Advanced Data Visualizations & Dashboard | <img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> | 
+
+<br>
+
+## Results
+
+<br>
+
+The final dashboard made with Power BI can be found [here](https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Global_Electronics_Retailer_Analysis_Dashboard.pbix).
+
+If you don't have the Power BI software, you can still have a look at [this animation](https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Retail_Dashboard_Snapshot.gif) to see how does the dashboard looks like.
