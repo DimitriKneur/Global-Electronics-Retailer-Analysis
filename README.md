@@ -32,8 +32,8 @@ The data source can be found on kaggle website at [this link](https://www.kaggle
 
 It consists in 6 csv files :
 
-| Column | Description |
-|--------|-------------|
+| Table | Description |
+|-------|-------------|
 | Data_Dictionary.csv | In this table, you will find a description of every single column of the other tables. This is probably where you should start in order to have a better comprehension of the data. |
 | Customers.csv | The customers Dataset. It consists in information about the customers, including their gender, geographic location and birth date. |
 | Exchange_Rates.csv | A table of exchange rates for 5 currencies vs USD from Jan. 2015 to Feb. 2021. These 5 currencies are the onesin which the sales are expressed. |
@@ -41,4 +41,12 @@ It consists in 6 csv files :
 | Sales.csv | The sales dataset, where you will find the order date, the product key associated with the sale, the quantity sold and the store key for each sale. |
 | Stores.csv | The stores dataset. Here you will find the location, surface and opening date of each store. |
 
-  
+<br>
+
+## Methodology and tools used
+
+| Step | Used Tools |
+|------|-------------|
+| First Exploratory Data Analysis & Joining Tables | <img style="padding:2px" style="padding:2px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black"/> |   
+| Data Cleaning, Advanced Exploratory Data Analysis & First Visualizations | <img style="padding:2px" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=black"/> <img style="padding:2px" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black"/> <img style="padding:2px" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=black"/> |
+| Advanced Data Visualizations & Dashboard | <img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> | 
