@@ -47,8 +47,6 @@ It consists in 6 csv files :
 
 ## Methodology and tools used
 
-<br>
-
 | Step | Used Tools |
 |------|-------------|
 | First Exploratory Data Analysis & Joining Tables | <img style="padding:2px" style="padding:2px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black"/> |   
@@ -58,8 +56,6 @@ It consists in 6 csv files :
 <br>
 
 ## Results
-
-<br>
 
 The final dashboard made with Power BI can be found [here](https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Global_Electronics_Retailer_Analysis_Dashboard.pbix).
 
